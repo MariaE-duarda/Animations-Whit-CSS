@@ -1,6 +1,5 @@
 # Animations
 #### Apanhado de códigos referentes a animações com CSS. 
-<img align="center" width="400" height="200" src="https://i.ytimg.com/vi/Ebn7YlsHqPo/maxresdefault.jpg">
 
 # CSS 
 Linguagem de marcação utilizada para estilização acompanhada do HTML, para a estruturação.
@@ -23,5 +22,3 @@ Linguagem de marcação utilizada para estilização acompanhada do HTML, para a
 ### _Sexto projeto_
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/foto6.png?raw=true">
 
-### _Sétimo projeto_
-<img src="https://github.com/MariaE-duarda/Imagens/blob/main/foto11.png?raw=true">
